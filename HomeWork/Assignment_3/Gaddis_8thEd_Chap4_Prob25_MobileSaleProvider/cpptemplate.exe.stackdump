@@ -1,0 +1,9 @@
+Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=004011F4
+eax=0F4E2904 ebx=0062CC1C ecx=00000000 edx=00000000 esi=20038E92 edi=611DADB2
+ebp=0062CBF8 esp=0062CBB0 program=C:\Users\crist\OneDrive\Documents\NetBeansProjects\CPPTemplate\dist\Debug\Cygwin-Windows\cpptemplate.exe, pid 4540, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0062CBF8  004011F4 (00000001, 0062CC1C, 200280F0, 61007A6A)
+0062CD18  61007ACF (00000000, 0062CD74, 61006B00, 00000000)
+End of stack trace

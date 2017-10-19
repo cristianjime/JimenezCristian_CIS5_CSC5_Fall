@@ -1,0 +1,9 @@
+Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=0040128F
+eax=0000000C ebx=0062CBEC ecx=00000000 edx=00000000 esi=20038E84 edi=611DADB2
+ebp=0062CBC8 esp=0062CB80 program=C:\Users\crist\OneDrive\Documents\NetBeansProjects\Gaddis_8thEd_Chap4_Pro5_BodyMassIndex\dist\Debug\Cygwin-Windows\gaddis_8thed_chap4_pro5_bodymassindex.exe, pid 5528, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0062CBC8  0040128F (00000001, 0062CBEC, 200280F0, 61007A6A)
+0062CD18  61007ACF (00000000, 0062CD74, 61006B00, 00000000)
+End of stack trace
